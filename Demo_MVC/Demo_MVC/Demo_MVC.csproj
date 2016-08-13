@@ -216,6 +216,7 @@
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Test\Home.cshtml" />
+    <Content Include="Views\Test\Detail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
